@@ -1,4 +1,4 @@
-# Cat Blog
+# div-and-float-practice
 
 #### Webpage created to practice CSS
 
